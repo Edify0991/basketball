@@ -1,6 +1,6 @@
 # Learning to Ball: Composing Policies for Long-Horizon Basketball Moves
 
-This is the official implementation for _*Learning to Ball: Composing Policies for Long-Horizon Basketball Moves*_. [[Webpage](https://pei-xu.github.io/basketball)] [[arXiv](http://arxiv.org/abs/2509.22442)] [[Youtube](https://www.youtube.com/2RBFIjjmR2I)] [[Bilibili](https://www.bilibili.com/video/BV1BGHwzBEAd)] [[SIGGRAPH Asia'25](#)] [[TOG](#)]
+This is the official implementation for _*Learning to Ball: Composing Policies for Long-Horizon Basketball Moves*_. [[Webpage](https://pei-xu.github.io/basketball)] [[arXiv](http://arxiv.org/abs/2509.22442)] [[Youtube](https://www.youtube.com/2RBFIjjmR2I)] [[Bilibili](https://www.bilibili.com/video/BV1BGHwzBEAd)] [[SIGGRAPH Asia'25](https://sa2025.conference-schedule.org/presentation/?id=papers_2494&sess=sess131)] [[TOG](https://doi.org/10.1145/3763367)]
 
 This implementation is based on 
 
